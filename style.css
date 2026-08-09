@@ -460,7 +460,7 @@ html { scrollbar-width: thin; scrollbar-color: var(--sky) var(--mist-2); }
 .form-success.is-visible { display: flex; }
 
 /* ---------- 21. Footer ---------- */
-.footer { position: relative; background: var(--navy); color: rgba(255,255,255,0.85); padding-top: 60px; }
+.footer { position: relative; background: var(--navy); color: rgba(255,255,255,0.85); padding-top: 50px; }
 .footer-wave { position: absolute; top: -79px; left: 0; width: 100%; height: 80px; }
 .footer-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 30px; padding-bottom: 34px; border-bottom: 1px solid rgba(255,255,255,0.12); }
 .footer-brand p { font-size: .84rem; color: rgba(255,255,255,0.55); margin-top: 8px; max-width: 320px; }
@@ -470,7 +470,7 @@ html { scrollbar-width: thin; scrollbar-color: var(--sky) var(--mist-2); }
 .footer-socials { display: flex; gap: 10px; }
 .footer-socials a { width: 38px; height: 38px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: rgba(255,255,255,0.08); color: #fff; transition: background .25s var(--ease), transform .25s var(--ease); }
 .footer-socials a:hover { background: var(--sky-deep); transform: translateY(-3px); }
-.footer-copy { text-align: center; font-size: .78rem; color: rgba(255,255,255,0.45); padding: 22px 0; }
+.footer-copy { text-align: center; font-size: .78rem; color: rgba(255,255,255,0.45); padding: 15px 0; }
 
 /* ---------- 22. Back to top ---------- */
 .back-to-top {
